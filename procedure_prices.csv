@@ -1,0 +1,695 @@
+Name_of_disease,url,procedure_price,cred_procedure_price
+Kidney Dialysis,https://www.credihealth.com/procedures/kidney-dialysis-cost-in-india,NA,NA
+Kidney Transplant,https://www.credihealth.com/procedures/kidney-transplant-cost-in-india,NA,NA
+Laparoscopic Cholecystectomy,https://www.credihealth.com/procedures/laparoscopic-cholecystectomy-cost-in-india,NA,NA
+Coronary Angiography,https://www.credihealth.com/procedures/coronary-angiography-cost-in-india,NA,NA
+Normal Delivery,https://www.credihealth.com/procedures/normal-delivery-cost-in-india,NA,NA
+Knee Replacement,https://www.credihealth.com/procedures/knee-replacement-cost-in-india,NA,NA
+Brain Tumor Surgery,https://www.credihealth.com/procedures/brain-tumor-surgery-cost-in-india,NA,NA
+Coronary Angioplasty,https://www.credihealth.com/procedures/coronary-angioplasty-cost-in-india,NA,NA
+Hernia Surgery,https://www.credihealth.com/procedures/hernia-surgery-cost-in-india,NA,NA
+Coronary Artery Bypass Grafting,https://www.credihealth.com/procedures/coronary-artery-bypass-grafting-cost-in-india,NA,NA
+Pacemaker Surgery,https://www.credihealth.com/procedures/pacemaker-surgery-cost-in-india,NA,NA
+Blood Cancer Treatment,https://www.credihealth.com/procedures/blood-cancer-treatment-cost-in-india,NA,NA
+Breast Cancer Treatment,https://www.credihealth.com/procedures/breast-cancer-treatment-cost-in-india,NA,NA
+Liver Transplant,https://www.credihealth.com/procedures/liver-transplant-cost-in-india,NA,NA
+Normal Delivery Baby,https://www.credihealth.com/procedures/normal-delivery-baby-cost-in-india,NA,NA
+Bone Marrow Transplant,https://www.credihealth.com/procedures/bone-marrow-transplant-cost-in-india,NA,NA
+Heart Valve Replacement,https://www.credihealth.com/procedures/heart-valve-replacement-cost-in-india,NA,NA
+Prostate Cancer Treatment,https://www.credihealth.com/procedures/prostate-cancer-treatment-cost-in-india,INR 81000,INR 81000
+In Vitro Fertilisation,https://www.credihealth.com/procedures/in-vitro-fertilisation-cost-in-india,NA,NA
+Hip Replacement,https://www.credihealth.com/procedures/hip-replacement-cost-in-india,NA,NA
+Ovulation,https://www.credihealth.com/procedures/ovulation-cost-in-india,NA,NA
+Hydrocele Surgery,https://www.credihealth.com/procedures/hydrocele-surgery-cost-in-india,NA,NA
+Breast Cancer Surgery,https://www.credihealth.com/procedures/breast-cancer-surgery-cost-in-india,NA,NA
+Dilatation and Curettage,https://www.credihealth.com/procedures/dilatation-and-curettage-cost-in-india,NA,NA
+Infertility Treatment,https://www.credihealth.com/procedures/infertility-treatment-cost-in-india,NA,NA
+Premature Ejaculation,https://www.credihealth.com/procedures/premature-ejaculation-cost-in-india,NA,NA
+LASIK,https://www.credihealth.com/procedures/lasik-cost-in-india,NA,NA
+Pulmonary Function Test,https://www.credihealth.com/procedures/pulmonary-function-test-cost-in-india,NA,NA
+Bronchoalveolar Lavage,https://www.credihealth.com/procedures/bronchoalveolar-lavage-cost-in-india,NA,NA
+Medical Termination Of Pregnancy,https://www.credihealth.com/procedures/medical-termination-of-pregnancy-cost-in-india,NA,NA
+Endometrial Receptivity Array,https://www.credihealth.com/procedures/endometrial-receptivity-array-cost-in-india,NA,NA
+Genioplasty,https://www.credihealth.com/procedures/genioplasty-cost-in-india,NA,NA
+Intrauterine Insemination,https://www.credihealth.com/procedures/intrauterine-insemination-cost-in-india,NA,NA
+Infertility Surgery,https://www.credihealth.com/procedures/infertility-surgery-cost-in-india,NA,NA
+Laser Fistulectomy,https://www.credihealth.com/procedures/laser-fistulectomy-cost-in-india,NA,NA
+Video Electroencephalography,https://www.credihealth.com/procedures/video-electroencephalography-cost-in-india,NA,NA
+Stapler Hemorrhoidectomy,https://www.credihealth.com/procedures/stapler-hemorrhoidectomy-cost-in-india,NA,NA
+Thoracocentesis,https://www.credihealth.com/procedures/thoracocentesis-cost-in-india,NA,NA
+Nuclear Therapy,https://www.credihealth.com/procedures/nuclear-therapy-cost-in-india,NA,NA
+Epilepsy Management,https://www.credihealth.com/procedures/epilepsy-management-cost-in-india,NA,NA
+Amniotic Fluid Leakage,https://www.credihealth.com/procedures/amniotic-fluid-leakage-cost-in-india,NA,NA
+Surrogacy,https://www.credihealth.com/procedures/surrogacy-cost-in-india,NA,NA
+Embryo Transfer,https://www.credihealth.com/procedures/embryo-transfer-cost-in-india,NA,NA
+Stereotactic Radiosurgery,https://www.credihealth.com/procedures/stereotactic-radiosurgery-cost-in-india,NA,NA
+Female Infertility,https://www.credihealth.com/procedures/female-infertility-cost-in-india,NA,NA
+Lymphoma Resection,https://www.credihealth.com/procedures/lymphoma-resection-cost-in-india,NA,NA
+Pre work - up Stem cell Transplant,https://www.credihealth.com/procedure,NA,NA
+Pulmonary Rehabilitation,https://www.credihealth.com/procedures/pulmonary-rehabilitation-cost-in-india,NA,NA
+Hysterectomy,https://www.credihealth.com/procedures/hysterectomy-cost-in-india,NA,NA
+Liver Biopsy,https://www.credihealth.com/procedures/liver-biopsy-cost-in-india,NA,NA
+Fibroids Removal Surgery,https://www.credihealth.com/procedures/fibroids-removal-surgery-cost-in-india,NA,NA
+Stem Cell Therapy,https://www.credihealth.com/procedures/stem-cell-therapy-cost-in-india,NA,NA
+Laproscopic Hernia Repair,https://www.credihealth.com/procedures/laproscopic-hernia-repair-cost-in-india,NA,NA
+Vaginal Atresia Surgery,https://www.credihealth.com/procedures/vaginal-atresia-surgery-cost-in-india,NA,NA
+Anterior Cruciate Ligament Reconstruction,https://www.credihealth.com/procedures/anterior-cruciate-ligament-reconstruction-cost-in-india,NA,NA
+Targeted Therapy,https://www.credihealth.com/procedures/targeted-therapy-cost-in-india,NA,NA
+Clubfoot,https://www.credihealth.com/procedures/clubfoot-cost-in-india,NA,NA
+Physiotherapy Session,https://www.credihealth.com/procedures/physiotherapy-session-cost-in-india,NA,NA
+Hyperthermic Intraperitoneal Chemotherapy,https://www.credihealth.com/procedures/hyperthermic-intraperitoneal-chemotherapy-cost-in-india,NA,NA
+Tonsillectomy,https://www.credihealth.com/procedures/tonsillectomy-cost-in-india,NA,NA
+Hemorrhoidectomy,https://www.credihealth.com/procedures/hemorrhoidectomy-cost-in-india,NA,NA
+Antibiotic Spacer Insertion,https://www.credihealth.com/procedures/antibiotic-spacer-insertion-cost-in-india,NA,NA
+Test Tube Baby,https://www.credihealth.com/procedures/test-tube-baby-cost-in-india,NA,NA
+Limb Lengthening,https://www.credihealth.com/procedures/limb-lengthening-cost-in-india,NA,NA
+Tongue Tie Surgery,https://www.credihealth.com/procedures/tongue-tie-surgery-cost-in-india,NA,NA
+Egg Retrieval,https://www.credihealth.com/procedures/egg-retrieval-cost-in-india,NA,NA
+Laser Hemorrhoidectomy,https://www.credihealth.com/procedures/laser-hemorrhoidectomy-cost-in-india,NA,NA
+Endometriosis,https://www.credihealth.com/procedures/endometriosis-cost-in-india,NA,NA
+Ear Tumor Surgery,https://www.credihealth.com/procedures/ear-tumor-surgery-cost-in-india,NA,NA
+Menorrhagia Management,https://www.credihealth.com/procedures/menorrhagia-cost-in-india,INR 1706000,INR 1706000
+Naval Surgery,https://www.credihealth.com/procedures/naval-surgery-cost-in-india,NA,NA
+Cancer Supportive Care,https://www.credihealth.com/procedures/cancer-supportive-care-cost-in-india,NA,NA
+Male Infertility Treatment,https://www.credihealth.com/procedures/male-infertility-treatment-cost-in-india,NA,NA
+Laparoscopic Myomectomy,https://www.credihealth.com/procedures/laparoscopic-myomectomy-cost-in-india,NA,NA
+Bladder Cancer Surgery,https://www.credihealth.com/procedures/bladder-cancer-surgery-cost-in-india,NA,NA
+Lithotripsy,https://www.credihealth.com/procedures/lithotripsy-cost-in-india,NA,NA
+Cardiac Ablation,https://www.credihealth.com/procedures/cardiac-ablation-cost-in-india,NA,NA
+Antenatal Care,https://www.credihealth.com/procedures/antenatal-care-cost-in-india,NA,NA
+Laparoscopic Ureteric Reimplantation,https://www.credihealth.com/procedures/laparoscopic-ureteric-reimplantation-cost-in-india,NA,NA
+Cervical Cerclage,https://www.credihealth.com/procedures/cervical-cerclage-cost-in-india,NA,NA
+Ptosis Fascia Lata Sling,https://www.credihealth.com/procedures/ptosis-fascia-lata-sling-cost-in-india,NA,NA
+Oral Cancer Treatment,https://www.credihealth.com/procedures/oral-cancer-treatment-cost-in-india,NA,NA
+Hip Arthroscopy,https://www.credihealth.com/procedures/hip-arthroscopy-cost-in-india,NA,NA
+CABG with Femoro Popliteal Bypass,https://www.credihealth.com/procedures/cabg-with-femoro-popliteal-bypass-cost-in-india,NA,NA
+Peripheral Angiography,https://www.credihealth.com/procedures/peripheral-angiography-cost-in-india,NA,NA
+MIDCAB Surgery,https://www.credihealth.com/procedures/midcab-surgery-cost-in-india,NA,NA
+Atrial Septal Defect Surgery,https://www.credihealth.com/procedures/atrial-septal-defect-surgery-cost-in-india,NA,NA
+Bladder Cancer,https://www.credihealth.com/procedures/bladder-cancer-cost-in-india,NA,NA
+Brain Mapping,https://www.credihealth.com/procedures/brain-mapping-cost-in-india,NA,NA
+Chronic Kidney Disease Management,https://www.credihealth.com/procedures/chronic-kidney-disease-management-cost-in-india,NA,NA
+Myringoplasty,https://www.credihealth.com/procedures/myringoplasty-cost-in-india,NA,NA
+Thoracotomy and Pericardial Window Construction,https://www.credihealth.com/procedures/thoracotomy-and-pericardial-window-construction-cost-in-india,NA,NA
+Lipectomy,https://www.credihealth.com/procedures/lipectomy-cost-in-india,NA,NA
+Cancer Surgery,https://www.credihealth.com/procedures/cancer-surgery-cost-in-india,NA,NA
+PICC Line Insertion,https://www.credihealth.com/procedures/picc-line-insertion-cost-in-india,NA,NA
+Direct Visual Internal Urethrotomy,https://www.credihealth.com/procedures/direct-visual-internal-urethrotomy-cost-in-india,NA,NA
+Otoplasty,https://www.credihealth.com/procedures/otoplasty-cost-in-india,NA,NA
+Cystectomy,https://www.credihealth.com/procedures/cystectomy-cost-in-india,NA,NA
+CABG High Risk Surgery,https://www.credihealth.com/procedures/cabg-high-risk-surgery-cost-in-india,NA,NA
+Cryotherapy,https://www.credihealth.com/procedures/cryotherapy-cost-in-india,NA,NA
+Ureterostomy,https://www.credihealth.com/procedures/ureterostomy-cost-in-india,NA,NA
+Optical Internal Urethrotomy Long,https://www.credihealth.com/procedures/optical-internal-urethrotomy-long-cost-in-india,NA,NA
+Frenuloplasty,https://www.credihealth.com/procedures/frenuloplasty-cost-in-india,NA,NA
+Drainage of Eyelid Abscess,https://www.credihealth.com/procedures/drainage-of-eyelid-abscess-cost-in-india,NA,NA
+Percutaneous Epididymal Sperm Aspiration,https://www.credihealth.com/procedures/percutaneous-epididymal-sperm-aspiration-cost-in-india,NA,NA
+Kidney Stone Removal,https://www.credihealth.com/procedures/kidney-stone-removal-cost-in-india,NA,NA
+Vasoepididymostomy,https://www.credihealth.com/procedures/vasoepididymostomy-cost-in-india,NA,NA
+Ascending Aorta Replacement,https://www.credihealth.com/procedures/ascending-aorta-replacement-cost-in-india,NA,NA
+Peripheral Nerve Surgery,https://www.credihealth.com/procedures/peripheral-nerve-surgery-cost-in-india,NA,NA
+Vascularized Fibular Grafting,https://www.credihealth.com/procedures/vascularized-fibular-grafting-cost-in-india,NA,NA
+Excision Arthroplasty Elbow,https://www.credihealth.com/procedures/excision-arthroplasty-elbow-cost-in-india,NA,NA
+Bentall Procedure,https://www.credihealth.com/procedures/bentall-procedure-cost-in-india,NA,NA
+Laparotomy Left Salpingectomy,https://www.credihealth.com/procedures/laparotomy-left-salpingectomy-cost-in-india,NA,NA
+Unknown,https://www.credihealth.com/procedures/unknown-cost-in-india,NA,NA
+Repair of Lacrimal Canaliculi,https://www.credihealth.com/procedures/repair-of-lacrimal-canaliculi-cost-in-india,NA,NA
+Partial Oophorectomy,https://www.credihealth.com/procedures/partial-oophorectomy-cost-in-india,NA,NA
+Skull Base Surgery,https://www.credihealth.com/procedures/skull-base-surgery-cost-in-india,NA,NA
+Mediastinoscopy,https://www.credihealth.com/procedures/mediastinoscopy-cost-in-india,NA,NA
+Small Incision Cataract Surgery,https://www.credihealth.com/procedures/small-incision-cataract-surgery-cost-in-india,NA,NA
+Arthroscopy,https://www.credihealth.com/procedures/arthroscopy-cost-in-india,NA,NA
+Hypospadias Surgery,https://www.credihealth.com/procedures/hypospadias-surgery-cost-in-india,NA,NA
+Balloon Sinuplasty,https://www.credihealth.com/procedures/balloon-sinuplasty-cost-in-india,NA,NA
+Esophageal Manometry,https://www.credihealth.com/procedures/esophageal-manometry-cost-in-india,NA,NA
+Retinal Surgery,https://www.credihealth.com/procedures/retinal-surgery-cost-in-india,NA,NA
+Dilatation of Stricture Urethra under GA,https://www.credihealth.com/procedures/dilatation-of-stricture-urethra-under-ga-cost-in-india,NA,NA
+Renal Biopsy,https://www.credihealth.com/procedures/renal-biopsy-cost-in-india,NA,NA
+Dental Implant,https://www.credihealth.com/procedures/dental-implant-cost-in-india,NA,NA
+Electroconvulsive Therapy,https://www.credihealth.com/procedures/electroconvulsive-therapy-cost-in-india,NA,NA
+Brain Hemorrhage Management,https://www.credihealth.com/procedures/brain-hemorrhage-management-cost-in-india,NA,NA
+Bilateral Knee Replacement,https://www.credihealth.com/procedures/bilateral-knee-replacement-cost-in-india,NA,NA
+Transcatheter Aortic Valve Implantation,https://www.credihealth.com/procedures/transcatheter-aortic-valve-implantation-cost-in-india,NA,NA
+Phototherapy,https://www.credihealth.com/procedures/phototherapy-cost-in-india,NA,NA
+Knee Osteotomy,https://www.credihealth.com/procedures/knee-osteotomy-cost-in-india,NA,NA
+Dengue Management,https://www.credihealth.com/procedures/dengue-management-cost-in-india,NA,NA
+Hysteroplasty,https://www.credihealth.com/procedures/hysteroplasty-cost-in-india,NA,NA
+Pacemaker Temporary,https://www.credihealth.com/procedures/pacemaker-temporary-cost-in-india,NA,NA
+Abdominal Hysterectomy,https://www.credihealth.com/procedures/abdominal-hysterectomy-cost-in-india,NA,NA
+Mouth Ulcer surgery,https://www.credihealth.com/procedures/mouth-ulcer-surgery-cost-in-india,NA,NA
+Face Transplant,https://www.credihealth.com/procedures/face-transplant-cost-in-india,NA,NA
+Cystoscopy with Retrograde Catheterization Unilateral,https://www.credihealth.com/procedures/cystoscopy-with-retrograde-catheterization-unilateral-cost-in-india,NA,NA
+Tongue Cancer Treatment,https://www.credihealth.com/procedures/tongue-cancer-treatment-cost-in-india,NA,NA
+Abdominal Myomectomy,https://www.credihealth.com/procedures/abdominal-myomectomy-cost-in-india,NA,NA
+Corneal Foreign Body Removal,https://www.credihealth.com/procedures/corneal-foreign-body-removal-cost-in-india,NA,NA
+Urinary Tract Infection Management,https://www.credihealth.com/procedures/urinary-tract-infection-management-cost-in-india,NA,NA
+Microsurgical Epididymal Sperm Aspiration,https://www.credihealth.com/procedures/microsurgical-epididymal-sperm-aspiration-cost-in-india,NA,NA
+Ovarian Cancer Surgery,https://www.credihealth.com/procedures/ovarian-cancer-surgery-cost-in-india,NA,NA
+Laryngectomy,https://www.credihealth.com/procedures/laryngectomy-cost-in-india,NA,NA
+Renal Angioplasty,https://www.credihealth.com/procedures/renal-angioplasty-cost-in-india,NA,NA
+Vertebroplasty,https://www.credihealth.com/procedures/vertebroplasty-cost-in-india,NA,NA
+Thoracoscopy,https://www.credihealth.com/procedures/thoracoscopy-cost-in-india,NA,NA
+Penile Implant,https://www.credihealth.com/procedures/penile-implant-cost-in-india,NA,NA
+Vaginoplasty,https://www.credihealth.com/procedures/vaginoplasty-cost-in-india,NA,NA
+Retinocryopexy,https://www.credihealth.com/procedures/retinocryopexy-cost-in-india,NA,NA
+Insulin,https://www.credihealth.com/procedures/insulin-cost-in-india,NA,NA
+Cervical Spine Surgery,https://www.credihealth.com/procedures/cervical-spine-surgery-cost-in-india,NA,NA
+Chickenpox Management,https://www.credihealth.com/procedures/chickenpox-management-cost-in-india,NA,NA
+Cancer Treatment,https://www.credihealth.com/procedures/cancer-treatment-cost-in-india,NA,NA
+Pancreatojejunostomy,https://www.credihealth.com/procedures/pancreatojejunostomy-cost-in-india,NA,NA
+PICC Line Repair,https://www.credihealth.com/procedures/picc-line-repair-cost-in-india,NA,NA
+Pleural Effusion,https://www.credihealth.com/procedures/pleural-effusion-cost-in-india,NA,NA
+Colon Cancer Treatment,https://www.credihealth.com/procedures/colon-cancer-treatment-cost-in-india,NA,NA
+Cystoscopy with PUV Fulguration,https://www.credihealth.com/procedures/cystoscopy-with-puv-fulguration-cost-in-india,NA,NA
+PET Scan,https://www.credihealth.com/procedures/pet-scan-cost-in-india,NA,NA
+Abscess Drainage Surgery,https://www.credihealth.com/procedures/abscess-drainage-surgery-cost-in-india,NA,NA
+Lower Spine Surgery,https://www.credihealth.com/procedures/lower-spine-surgery-cost-in-india,NA,NA
+Ureteric Meatotomy,https://www.credihealth.com/procedures/ureteric-meatotomy-cost-in-india,NA,NA
+Repair Ruptured Aneurysm Sinus of Valsava on CPB,https://www.credihealth.com/procedures/repair-ruptured-aneurysm-sinus-of-valsava-on-cpb-cost-in-india,NA,NA
+Pancreatic Cancer,https://www.credihealth.com/procedures/pancreatic-cancer-cost-in-india,NA,NA
+Electrocautery,https://www.credihealth.com/procedures/electrocautery-cost-in-india,NA,NA
+CABG+ Valve Replacement,https://www.credihealth.com/procedures/cabg-valve-replacement-cost-in-india,NA,NA
+Embryoscope,https://www.credihealth.com/procedures/embryoscope-cost-in-india,NA,NA
+Peripheral Angioplasty,https://www.credihealth.com/procedures/peripheral-angioplasty-cost-in-india,NA,NA
+Hepatobiliary Cancer,https://www.credihealth.com/procedures/hepatobiliary-cancer-cost-in-india,NA,NA
+Catheter Removal,https://www.credihealth.com/procedures/catheter-removal-cost-in-india,NA,NA
+Asthma,https://www.credihealth.com/procedures/asthma-cost-in-india,NA,NA
+Gas,https://www.credihealth.com/procedures/gas-cost-in-india,NA,NA
+Cancer Screening,https://www.credihealth.com/procedures/cancer-screening-cost-in-india,NA,NA
+Liposuction,https://www.credihealth.com/procedures/liposuction-cost-in-india,NA,NA
+Dehydration Management,https://www.credihealth.com/procedures/dehydration-cost-in-india,NA,NA
+Gallbladder Cancer,https://www.credihealth.com/procedures/gallbladder-cancer-cost-in-india,NA,NA
+Metatarsalphalangel Joint Arthrodesis for MTP Joint Deformity,https://www.credihealth.com/procedures/metatarsalphalangel-joint-arthrodesis-for-mtp-joint-deformity-cost-in-india,NA,NA
+Extracorporeal Shockwave Lithotripsy,https://www.credihealth.com/procedures/extracorporeal-shockwave-lithotripsy-cost-in-india,NA,NA
+Kidney Stent removal,https://www.credihealth.com/procedures/kidney-stent-removal-cost-in-india,NA,NA
+Preimplantation Genetic Diagnosis,https://www.credihealth.com/procedures/preimplantation-genetic-diagnosis-cost-in-india,NA,NA
+Rhinoplasty,https://www.credihealth.com/procedures/rhinoplasty-cost-in-india,NA,NA
+Ankle Replacement Revision,https://www.credihealth.com/procedures/ankle-replacement-revision-cost-in-india,NA,NA
+Urostomy,https://www.credihealth.com/procedures/urostomy-cost-in-india,NA,NA
+Robotic Surgery,https://www.credihealth.com/procedures/robotic-surgery-cost-in-india,NA,NA
+Lung Surgery,https://www.credihealth.com/procedures/lung-surgery-cost-in-india,NA,NA
+Functional Endoscopic Sinus Surgery,https://www.credihealth.com/procedures/functional-endoscopic-sinus-surgery-cost-in-india,NA,NA
+Fine Needle Aspiration Cytology,https://www.credihealth.com/procedures/fine-needle-aspiration-cytology-cost-in-india,NA,NA
+Aortic Valve Replacement Minimally Invasive,https://www.credihealth.com/procedures/aortic-valve-replacement-minimally-invasive-cost-in-india,NA,NA
+ASD Closure Minimally Invasive,https://www.credihealth.com/procedures/asd-closure-minimally-invasive-cost-in-india,NA,NA
+Laminectomy for Lumbar spine,https://www.credihealth.com/procedures/laminectomy-for-lumbar-spine-cost-in-india,NA,NA
+Cystoscopy,https://www.credihealth.com/procedures/cystoscopy-cost-in-india,NA,NA
+Aspiration of Cyst,https://www.credihealth.com/procedures/aspiration-of-cyst-cost-in-india,NA,NA
+ASD Closure Redo,https://www.credihealth.com/procedures/asd-closure-redo-cost-in-india,NA,NA
+Pancreatectomy,https://www.credihealth.com/procedures/pancreatectomy-cost-in-india,NA,NA
+Hysterolaparoscopy,https://www.credihealth.com/procedures/hysterolaparoscopy-cost-in-india,NA,NA
+Distal Radius ORIF,https://www.credihealth.com/procedures/distal-radius-orif-cost-in-india,NA,NA
+DJ Stent Placement Unilateral,https://www.credihealth.com/procedures/dj-stent-placement-unilateral-cost-in-india,NA,NA
+Hysteroscopy,https://www.credihealth.com/procedures/hysteroscopy-cost-in-india,NA,NA
+Laparoscopic Orchidopexy,https://www.credihealth.com/procedures/laparoscopic-orchidopexy-cost-in-india,NA,NA
+Prostate Resection Surgery,https://www.credihealth.com/procedures/prostate-resection-surgery-cost-in-india,NA,NA
+Lumpectomy,https://www.credihealth.com/procedures/lumpectomy-cost-in-india,NA,NA
+Cornea Transplant,https://www.credihealth.com/procedures/cornea-transplant-cost-in-india,NA,NA
+Chemoembolization of Malignant Brain Tumour,https://www.credihealth.com/procedures/chemoembolization-of-malignant-brain-tumour-cost-in-india,NA,NA
+Aortic Valve Replacement,https://www.credihealth.com/procedures/aortic-valve-replacement-cost-in-india,NA,NA
+Laparoscopic Partial Nephrectomy,https://www.credihealth.com/procedures/laparoscopic-partial-nephrectomy-cost-in-india,NA,NA
+Amputation above Elbow,https://www.credihealth.com/procedures/amputation-above-elbow-cost-in-india,NA,NA
+Meniscectomy Cruciate Ligament Reconstruction,https://www.credihealth.com/procedures/meniscectomy-cruciate-ligament-reconstruction-cost-in-india,NA,NA
+Meniscal Excision of Loose Body,https://www.credihealth.com/procedures/meniscal-excision-of-loose-body-cost-in-india,NA,NA
+Ndvh aNon Descent Vaginal Hysterectomy,https://www.credihealth.com/procedures/ndvh-anon-descent-vaginal-hysterectomy-cost-in-india,NA,NA
+ORIF Femur with Nail,https://www.credihealth.com/procedures/orif-femur-with-nail-cost-in-india,NA,NA
+Intra Arterial Chemotherapy of Brain Stem Gliomas,https://www.credihealth.com/procedures/intra-arterial-chemotherapy-of-brain-stem-gliomas-cost-in-india,NA,NA
+Intra Arterial Vasodilatation,https://www.credihealth.com/procedures/intra-arterial-vasodilatation-cost-in-india,NA,NA
+Malunion Correction with Plate,https://www.credihealth.com/procedures/malunion-correction-with-plate-cost-in-india,NA,NA
+ASD Heart Port Surgery,https://www.credihealth.com/procedures/asd-heart-port-surgery-cost-in-india,NA,NA
+Subtotal Synovectomy Shoulder Joint,https://www.credihealth.com/procedures/subtotal-synovectomy-shoulder-joint-cost-in-india,NA,NA
+Supracondylar Femoral Osteotomy Fixation,https://www.credihealth.com/procedures/supracondylar-femoral-osteotomy-fixation-cost-in-india,NA,NA
+Supracondylar Corrective Osteotomy,https://www.credihealth.com/procedures/supracondylar-corrective-osteotomy-cost-in-india,NA,NA
+Entropion or Ectropion Repair,https://www.credihealth.com/procedures/entropion-or-ectropion-repair-cost-in-india,NA,NA
+YAG Laser Posterior Capsulotomy,https://www.credihealth.com/procedures/yag-laser-posterior-capsulotomy-cost-in-india,NA,NA
+Laparoscopic Diverticulectomy,https://www.credihealth.com/procedures/laparoscopic-diverticulectomy-cost-in-india,NA,NA
+Major Soft Tissue Release of Hip,https://www.credihealth.com/procedures/major-soft-tissue-release-of-hip-cost-in-india,NA,NA
+Buccal Mucosa Urethroplasty,https://www.credihealth.com/procedures/buccal-mucosa-urethroplasty-cost-in-india,NA,NA
+ORIF of Pelvis Single Column,https://www.credihealth.com/procedures/orif-of-pelvis-single-column-cost-in-india,NA,NA
+Wart Removal Surgery,https://www.credihealth.com/procedures/wart-removal-surgery-cost-in-india,NA,NA
+Arthrocentesis,https://www.credihealth.com/procedures/arthrocentesis-cost-in-india,NA,NA
+Sentinel Node Biopsy,https://www.credihealth.com/procedures/sentinel-node-biopsy-cost-in-india,NA,NA
+Intra Arterial Thrombolysis for Ischemic Stroke,https://www.credihealth.com/procedures/intra-arterial-thrombolysis-for-ischemic-stroke-cost-in-india,NA,NA
+Heart Port Surgery,https://www.credihealth.com/procedures/heart-port-surgery-cost-in-india,NA,NA
+Symblephron Surgery,https://www.credihealth.com/procedures/symblephron-surgery-cost-in-india,NA,NA
+Left Trisegmentectomy,https://www.credihealth.com/procedures/left-trisegmentectomy-cost-in-india,NA,NA
+Whipple Procedure,https://www.credihealth.com/procedures/whipple-procedure-cost-in-india,NA,NA
+Nephrectomy,https://www.credihealth.com/procedures/nephrectomy-cost-in-india,NA,NA
+Open Nephroureterectomy,https://www.credihealth.com/procedures/open-nephroureterectomy-cost-in-india,NA,NA
+Right Trisegmentectomy,https://www.credihealth.com/procedures/right-trisegmentectomy-cost-in-india,NA,NA
+Hair Transplant,https://www.credihealth.com/procedures/hair-transplant-cost-in-india,NA,NA
+Uterus Tumor Removal,https://www.credihealth.com/procedures/uterus-tumor-removal-cost-in-india,NA,NA
+Vaginal Hysterectomy,https://www.credihealth.com/procedures/vaginal-hysterectomy-cost-in-india,NA,NA
+Laser Hair Removal,https://www.credihealth.com/procedures/laser-hair-removal-cost-in-india,NA,NA
+Weight Loss Surgery,https://www.credihealth.com/procedures/weight-loss-surgery-cost-in-india,NA,NA
+Ovarian Cancer Treatment,https://www.credihealth.com/procedures/ovarian-cancer-treatment-cost-in-india,NA,NA
+Varicose Vein Surgery,https://www.credihealth.com/procedures/varicose-vein-surgery-cost-in-india,NA,NA
+Radical Prostatectomy,https://www.credihealth.com/procedures/radical-prostatectomy-cost-in-india,NA,NA
+Body Contouring Surgery,https://www.credihealth.com/procedures/body-contouring-surgery-cost-in-india,NA,NA
+Transurethral Resection of Ejaculatory Duct,https://www.credihealth.com/procedures/transurethral-resection-of-ejaculatory-duct-cost-in-india,NA,NA
+Endoscopic Removal of Stone in Bladder,https://www.credihealth.com/,NA,NA
+Decompression Surgery,https://www.credihealth.com/procedures/decompression-surgery-cost-in-india,NA,NA
+Microscopic Laryngeal Surgery,https://www.credihealth.com/procedures/microscopic-laryngeal-surgery-cost-in-india,NA,NA
+Ranula Excision,https://www.credihealth.com/procedures/ranula-excision-cost-in-india,NA,NA
+Nerve Transposition,https://www.credihealth.com/procedures/nerve-transposition-cost-in-india,NA,NA
+Gastric Cancer Surgery,https://www.credihealth.com/procedures/gastric-cancer-surgery-cost-in-india,NA,NA
+Pain Management,https://www.credihealth.com/procedures/pain-management-cost-in-india,NA,NA
+Proteinuria Management,https://www.credihealth.com/procedures/proteinuria-management-cost-in-india,NA,NA
+Gamma Knife Radiosurgery,https://www.credihealth.com/procedures/gamma-knife-radiosurgery-cost-in-india,NA,NA
+Endoscopic Endonasal Surgery,https://www.credihealth.com/procedures/endoscopic-endonasal-surgery-cost-in-india,NA,NA
+High Risk Pregnancy,https://www.credihealth.com/procedures/high-risk-pregnancy-cost-in-india,NA,NA
+Heart Transplant,https://www.credihealth.com/procedures/heart-transplant-cost-in-india,NA,NA
+Cervical Stitch Removal,https://www.credihealth.com/procedures/cervical-stitch-removal-cost-in-india,NA,NA
+Radiation Therapy,https://www.credihealth.com/procedures/radiation-therapy-cost-in-india,NA,NA
+Thyroidectomy,https://www.credihealth.com/procedures/thyroidectomy-cost-in-india,NA,NA
+Vitreo Retinal Surgery,https://www.credihealth.com/procedures/vitreo-retinal-surgery-cost-in-india,NA,NA
+Spine Surgery,https://www.credihealth.com/procedures/spine-surgery-cost-in-india,NA,NA
+Lumbar Puncture,https://www.credihealth.com/procedures/lumbar-puncture-cost-in-india,NA,NA
+Knee Arthroscopy,https://www.credihealth.com/procedure/india/knee-arthroscopy-cost,INR 91000,INR 91000
+Breast Augmentation Surgery,https://www.credihealth.com/procedures/breast-augmentation-surgery-cost-in-india,NA,NA
+Esophageal Cancer Surgery,https://www.credihealth.com/procedures/esophageal-cancer-surgery-cost-in-india,NA,NA
+Video Assisted Thoracoscopic Surgery,https://www.credihealth.com/procedures/video-assisted-thoracoscopic-surgery-cost-in-india,NA,NA
+Orchidopexy,https://www.credihealth.com/procedures/orchidopexy-cost-in-india,NA,NA
+Tracheostomy,https://www.credihealth.com/procedures/tracheostomy-cost-in-india,NA,NA
+Fistulagram,https://www.credihealth.com/procedures/fistulagram-cost-in-india,NA,NA
+Laparoscopic Surgery,https://www.credihealth.com/procedures/laparoscopic-surgery-cost-in-india,INR 255000,INR 255000
+Endoscopy,https://www.credihealth.com/procedures/endoscopy-cost-in-india,NA,NA
+Implantable Cardioverter Defibrillator,https://www.credihealth.com/procedures/implantable-cardioverter-defibrillator-cost-in-india,NA,NA
+Trocar Cystostomy,https://www.credihealth.com/procedures/trocar-cystostomy-cost-in-india,NA,NA
+Enteroscopy,https://www.credihealth.com/procedures/enteroscopy-cost-in-india,NA,NA
+Mitral Valve Surgery,https://www.credihealth.com/procedures/mitral-valve-surgery-cost-in-india,NA,NA
+Colonoscopy,https://www.credihealth.com/procedures/colonoscopy-cost-in-india,NA,NA
+Percutaneous Nephrolithotomy,https://www.credihealth.com/procedure/india/percutaneous-nephrolithotomy-cost,NA,NA
+Open Cholecystectomy,https://www.credihealth.com/procedures/open-cholecystectomy-cost-in-india,NA,NA
+Frontal Sinus Surgery,https://www.credihealth.com/procedures/frontal-sinus-surgery-cost-in-india,NA,NA
+Laser Peripheral Iridotomy for Glaucoma Treatment,https://www.credihealth.com/procedures/laser-peripheral-iridotomy-for-glaucoma-treatment-cost-in-india,NA,NA
+Colectomy,https://www.credihealth.com/procedures/colectomy-cost-in-india,NA,NA
+Partial Cystectomy,https://www.credihealth.com/procedures/partial-cystectomy-cost-in-india,NA,NA
+Appendectomy,https://www.credihealth.com/procedures/appendectomy-cost-in-india,NA,NA
+Thoracotomy,https://www.credihealth.com/procedures/thoracotomy-cost-in-india,NA,NA
+Lung Transplant,https://www.credihealth.com/procedures/lung-transplant-cost-in-india,NA,NA
+Gastric Bypass Surgery,https://www.credihealth.com/procedures/gastric-bypass-surgery-cost-in-india,NA,NA
+Vocal Cord Surgery,https://www.credihealth.com/procedures/vocal-cord-surgery-cost-in-india,NA,NA
+Gall Bladder Stone,https://www.credihealth.com/procedures/gall-bladder-stone-cost-in-india,NA,NA
+Submucous Cyst Excision,https://www.credihealth.com/procedures/submucous-cyst-excision-cost-in-india,NA,NA
+Septoplasty,https://www.credihealth.com/procedures/septoplasty-cost-in-india,NA,NA
+Facial Nerve Repair,https://www.credihealth.com/procedures/facial-nerve-repair-cost-in-india,NA,NA
+Chalazion Incision and Curretage,https://www.credihealth.com/procedures/chalazion-incision-and-curretage-cost-in-india,NA,NA
+Penile Curvature Correction Surgery,https://www.credihealth.com/procedures/penile-curvature-correction-surgery-cost-in-india,NA,NA
+Echocardiography,https://www.credihealth.com/procedures/echocardiography-cost-in-india,NA,NA
+Ventricular Septal Defect Surgery,https://www.credihealth.com/procedures/ventricular-septal-defect-surgery-cost-in-india,NA,NA
+Revascularization,https://www.credihealth.com/procedures/revascularization-cost-in-india,NA,NA
+Ascites Tap,https://www.credihealth.com/procedures/ascites-tap-cost-in-india,NA,NA
+Ganglion Cyst,https://www.credihealth.com/procedures/ganglion-cyst-cost-in-india,NA,NA
+Heart Biopsy,https://www.credihealth.com/procedures/heart-biopsy-cost-in-india,NA,NA
+DJ Stent Placement Bilateral,https://www.credihealth.com/procedures/dj-stent-placement-bilateral-cost-in-india,NA,NA
+Septal Ablation,https://www.credihealth.com/procedures/septal-ablation-cost-in-india,NA,NA
+Embryo Vitrification,https://www.credihealth.com/procedures/embryo-vitrification-cost-in-india,NA,NA
+Coarctation of Aorta Surgery,https://www.credihealth.com/procedures/coarctation-of-aorta-surgery-cost-in-india,NA,NA
+Physiological Intra Cytoplasmic Sperm Injection,https://www.credihealth.com/procedures/physiological-intra-cytoplasmic-sperm-injection-cost-in-india,NA,NA
+Cataract Surgery,https://www.credihealth.com/procedures/cataract-surgery-cost-in-india,NA,NA
+Tumor Resection Cardiac Rhabdomyoma,https://www.credihealth.com/procedures/tumor-resection-cardiac-rhabdomyoma-cost-in-india,NA,NA
+Bone Marrow Transplant Donor,https://www.credihealth.com/procedures/bone-marrow-transplant-donor-cost-in-india,NA,NA
+Lung Transplant Donor,https://www.credihealth.com/procedures/lung-transplant-donor-cost-in-india,NA,NA
+Lymph Node Biopsy,https://www.credihealth.com/procedures/lymph-node-biopsy-cost-in-india,NA,NA
+Peroral Endoscopic Myotomy,https://www.credihealth.com/procedures/peroral-endoscopic-myotomy-cost-in-india,NA,NA
+CABG with Ring Annuloplasty,https://www.credihealth.com/procedures/cabg-with-ring-annuloplasty-cost-in-india,NA,NA
+Spine Surgery with Simple Instrumentation,https://www.credihealth.com/procedures/spine-surgery-with-simple-instrumentation-cost-in-india,NA,NA
+Amputation of Single digit,https://www.credihealth.com/procedures/amputation-of-single-digit-cost-in-india,NA,NA
+Mitral Valve Replacement,https://www.credihealth.com/procedures/mitral-valve-replacement-cost-in-india,NA,NA
+Laparoscopic Treatment of Ectopic Pregnancy,https://www.credihealth.com/procedures/laparoscopic-treatment-of-ectopic-pregnancy-cost-in-india,NA,NA
+Laproscopic Supracervical Hysterectomy,https://www.credihealth.com/procedures/laproscopic-supracervical-hysterectomy-cost-in-india,NA,NA
+Mid trimester abortion with Dilatation and Curretage,https://www.credihealth.com/procedures/mid-trimester-abortion-with-dilatation-and-curretage-cost-in-india,NA,NA
+Mitral Valve Replacement with LA Clot Removal,https://www.credihealth.com/procedures/mitral-valve-replacement-with-la-clot-removal-cost-in-india,NA,NA
+Cardiomyotomy,https://www.credihealth.com/procedures/cardiomyotomy-cost-in-india,NA,NA
+Mitral Valve Repair,https://www.credihealth.com/procedures/mitral-valve-repair-cost-in-india,NA,NA
+Surgery for Spinal Arteriovenous Malformation,https://www.credihealth.com/procedures/surgery-for-spinal-arteriovenous-malformation-cost-in-india,NA,NA
+Intracranial Stenting,https://www.credihealth.com/procedures/intracranial-stenting-cost-in-india,NA,NA
+Amputation of Hand,https://www.credihealth.com/procedures/amputation-of-hand-cost-in-india,NA,NA
+Carotid Angioplasty,https://www.credihealth.com/procedures/carotid-angioplasty-cost-in-india,NA,NA
+Amputation below Elbow,https://www.credihealth.com/procedures/amputation-below-elbow-cost-in-india,NA,NA
+Rotator Cuff Repair Shoulder,https://www.credihealth.com/procedures/rotator-cuff-repair-shoulder-cost-in-india,NA,NA
+Shoulder Disarticulation and Fore Quarter Amputation,https://www.credihealth.com/procedures/shoulder-disarticulation-and-fore-quarter-amputation-cost-in-india,NA,NA
+Cervical Disc Replacement,https://www.credihealth.com/procedures/cervical-disc-replacement-cost-in-india,NA,NA
+Caverno Saphemous Shunt for Priapism,https://www.credihealth.com/procedures/caverno-saphemous-shunt-for-priapism-cost-in-india,NA,NA
+Fibula Strut Grafting,https://www.credihealth.com/procedures/fibula-strut-grafting-cost-in-india,NA,NA
+Bladder Neck Suspension,https://www.credihealth.com/procedures/bladder-neck-suspension-cost-in-india,NA,NA
+Male Bulbourethral Sling,https://www.credihealth.com/procedures/male-bulbourethral-sling-cost-in-india,NA,NA
+Bilateral Adrenalectomy,https://www.credihealth.com/procedures/bilateral-adrenalectomy-cost-in-india,NA,NA
+Transpubic Urethoroplasty,https://www.credihealth.com/procedures/transpubic-urethoroplasty-cost-in-india,NA,NA
+Orthotopic Neobladder Reconstruction,https://www.credihealth.com/procedures/orthotopic-neobladder-reconstruction-cost-in-india,NA,NA
+Laparoscopic Pelvic Floor Repair,https://www.credihealth.com/procedures/laparoscopic-pelvic-floor-repair-cost-in-india,NA,NA
+Cystocele Repair,https://www.credihealth.com/procedures/cystocele-repair-cost-in-india,NA,NA
+Augmentation lleocystoplasty,https://www.credihealth.com/procedures/augmentation-lleocystoplasty-cost-in-india,NA,NA
+Laparoscopy Surgery for Vesicovaginal Fistula,https://www.credihealth.com/procedures/laparoscopy-surgery-for-vesicovaginal-fistula-cost-in-india,NA,NA
+Open Orchidopexy,https://www.credihealth.com/procedures/open-orchidopexy-cost-in-india,NA,NA
+Retropubic Prostetectomy,https://www.credihealth.com/procedures/retropubic-prostetectomy-cost-in-india,NA,NA
+Laparoscopic Surgery for Hydrosalpinx,https://www.credihealth.com/procedures/laparoscopic-surgery-for-hydrosalpinx-cost-in-india,NA,NA
+Epididmal Cyst Excision Bilateral,https://www.credihealth.com/procedures/epididmal-cyst-excision-bilateral-cost-in-india,NA,NA
+Retroperitoneoscopic Renal Cyst Excision,https://www.credihealth.com/procedures/retroperitoneoscopic-renal-cyst-excision-cost-in-india,NA,NA
+Cystoscopy Diagnostic,https://www.credihealth.com/procedures/cystoscopy-diagnostic-cost-in-india,NA,NA
+Salpingostomy,https://www.credihealth.com/procedures/salpingostomy-cost-in-india,NA,NA
+Perineoplasty,https://www.credihealth.com/procedures/perineoplasty-cost-in-india,NA,NA
+Marsupialization of Bartholin Gland,https://www.credihealth.com/procedures/marsupialization-of-bartholin-gland-cost-in-india,NA,NA
+Removal of Impacted Vaginal Foreign Body,https://www.credihealth.com/procedures/removal-of-impacted-vaginal-foreign-body-cost-in-india,NA,NA
+Mesh Insertion for Repair Pelvic Floor Defect,https://www.credihealth.com/procedures/mesh-insertion-for-repair-pelvic-floor-defect-cost-in-india,NA,NA
+High Speed Vitreo Retinal Surgery,https://www.credihealth.com/procedures/high-speed-vitreo-retinal-surgery-cost-in-india,NA,NA
+Anterior Retinal Cryotherapy,https://www.credihealth.com/procedures/anterior-retinal-cryotherapy-cost-in-india,NA,NA
+Repair of Enterocele,https://www.credihealth.com/procedures/repair-of-enterocele-cost-in-india,NA,NA
+Repair of Rectovaginal Fistula,https://www.credihealth.com/procedures/repair-of-rectovaginal-fistula-cost-in-india,NA,NA
+Repair of Urethrovaginal Fistula,https://www.credihealth.com/procedures/repair-of-urethrovaginal-fistula-cost-in-india,NA,NA
+Transperineal Closure of Rectovaginal Fistula,https://www.credihealth.com/procedures/transperineal-closure-of-rectovaginal-fistula-cost-in-india,NA,NA
+Trans Cervical Resection of Endometrium,https://www.credihealth.com/procedures/trans-cervical-resection-of-endometrium-cost-in-india,NA,NA
+Sling Operation for Stress Incontinence,https://www.credihealth.com/procedures/sling-operation-for-stress-incontinence-cost-in-india,NA,NA
+Hysteroscopic Metroplasty,https://www.credihealth.com/procedures/hysteroscopic-metroplasty-cost-in-india,NA,NA
+Laparoscopic Fimbrioplasty,https://www.credihealth.com/procedures/laparoscopic-fimbrioplasty-cost-in-india,NA,NA
+Laparoscopic Drainage of Ovarian Abscess,https://www.credihealth.com/procedures/laparoscopic-drainage-of-ovarian-abscess-cost-in-india,NA,NA
+Laproscopic Removal of Lost IUCD,https://www.credihealth.com/procedures/laproscopic-removal-of-lost-iucd-cost-in-india,NA,NA
+Drainage of Pelvic Abscess by Transvaginal Approach,https://www.credihealth.com/procedures/drainage-of-pelvic-abscess-by-transvaginal-approach-cost-in-india,NA,NA
+Repair of Perineal Tear,https://www.credihealth.com/procedures/repair-of-perineal-tear-cost-in-india,NA,NA
+Pereyra Procedure with Anterior Colporrhaphy,https://www.credihealth.com/procedures/pereyra-procedure-with-anterior-colporrhaphy-cost-in-india,NA,NA
+Vaginectomy,https://www.credihealth.com/procedures/vaginectomy-cost-in-india,NA,NA
+Drainage of Vulval Hematoma,https://www.credihealth.com/procedures/drainage-of-vulval-hematoma-cost-in-india,NA,NA
+Mid trimester abortion without Dilatation and Curretage,https://www.credihealth.com/procedures/mid-trimester-abortion-without-dilatation-and-curretage-cost-in-india,NA,NA
+Excision of Bartholin Gland,https://www.credihealth.com/procedures/excision-of-bartholin-gland-cost-in-india,NA,NA
+Ileal Pouch Anal Anastomosis,https://www.credihealth.com/procedures/ileal-pouch-anal-anastomosis-cost-in-india,NA,NA
+Partial Colectomy,https://www.credihealth.com/procedures/partial-colectomy-cost-in-india,NA,NA
+Partial Hymenectomy,https://www.credihealth.com/procedures/partial-hymenectomy-cost-in-india,NA,NA
+Salpingectomy,https://www.credihealth.com/procedures/salpingectomy-cost-in-india,NA,NA
+Tetralogy of Fallot,https://www.credihealth.com/procedures/tetralogy-of-fallot-cost-in-india,NA,NA
+Vaginal Preterm Delivery,https://www.credihealth.com/procedures/vaginal-preterm-delivery-cost-in-india,NA,NA
+Heart and Lung Transplant,https://www.credihealth.com/procedures/heart-and-lung-transplant-cost-in-india,NA,NA
+Autologous PRGF,https://www.credihealth.com/procedures/autologous-prgf-cost-in-india,NA,NA
+Anal Tumor Excision,https://www.credihealth.com/procedures/anal-tumor-excision-cost-in-india,NA,NA
+Cystoscopy with Urethral Dilatation,https://www.credihealth.com/procedures/cystoscopy-with-urethral-dilatation-cost-in-india,NA,NA
+Paraphimosis Reduction,https://www.credihealth.com/procedures/paraphimosis-reduction-cost-in-india,NA,NA
+Suspensory Ligament Hitch Surgery,https://www.credihealth.com/procedures/suspensory-ligament-hitch-surgery-cost-in-india,NA,NA
+Repair of Fractured Penis,https://www.credihealth.com/procedures/repair-of-fractured-penis-cost-in-india,NA,NA
+Orbitotomy,https://www.credihealth.com/procedures/orbitotomy-cost-in-india,NA,NA
+Vasography,https://www.credihealth.com/procedures/vasography-cost-in-india,NA,NA
+Embolization for Intracranial Bleeding,https://www.credihealth.com/procedures/embolization-for-intracranial-bleeding-cost-in-india,NA,NA
+Pelvic Laparoscopy,https://www.credihealth.com/procedures/pelvic-laparoscopy-cost-in-india,NA,NA
+Partial Gastrectomy,https://www.credihealth.com/procedures/partial-gastrectomy-cost-in-india,NA,NA
+Rectovaginal Fistula Repair,https://www.credihealth.com/procedures/rectovaginal-fistula-repair-cost-in-india,NA,NA
+Hartmann Procedure,https://www.credihealth.com/procedures/hartmann-procedure-cost-in-india,NA,NA
+Spinal Tumor Decompression,https://www.credihealth.com/procedures/spinal-tumor-decompression-cost-in-india,NA,NA
+Acupuncture,https://www.credihealth.com/procedures/acupuncture-cost-in-india,NA,NA
+Spinal Decompression,https://www.credihealth.com/procedures/spinal-decompression-cost-in-india,NA,NA
+Open Radical Nephrectomy,https://www.credihealth.com/procedures/open-radical-nephrectomy-cost-in-india,NA,NA
+Vagus Nerve Stimulation,https://www.credihealth.com/procedures/vagus-nerve-stimulation-cost-in-india,NA,NA
+Squint Surgery,https://www.credihealth.com/procedures/squint-surgery-cost-in-india,NA,NA
+Aneurysm Clipping,https://www.credihealth.com/procedures/aneurysm-clipping-cost-in-india,NA,NA
+Duodenal Diverticulum Resection,https://www.credihealth.com/procedures/duodenal-diverticulum-resection-cost-in-india,NA,NA
+Brachial Plexus Surgery,https://www.credihealth.com/procedures/brachial-plexus-surgery-cost-in-india,NA,NA
+Cholecystostomy,https://www.credihealth.com/procedures/cholecystostomy-cost-in-india,NA,NA
+Pleural Tap,https://www.credihealth.com/procedures/pleural-tap-cost-in-india,NA,NA
+Decompression Craniectomy,https://www.credihealth.com/procedures/decompression-craniectomy-cost-in-india,NA,NA
+Gynecomastia,https://www.credihealth.com/procedures/gynecomastia-cost-in-india,NA,NA
+Breast Cancer Recurrence,https://www.credihealth.com/procedures/breast-cancer-recurrence-cost-in-india,NA,NA
+Esophageal Perforation Repair,https://www.credihealth.com/procedures/esophageal-perforation-repair-cost-in-india,INR 72000,INR 72000
+Hysterotomy,https://www.credihealth.com/procedures/hysterotomy-cost-in-india,NA,NA
+Anderson Hynes Pyeloplasty,https://www.credihealth.com/procedures/anderson-hynes-pyeloplasty-cost-in-india,NA,NA
+Small Bowel Perforation Repair,https://www.credihealth.com/procedures/small-bowel-perforation-repair-cost-in-india,NA,NA
+Gastric Perforation Repair,https://www.credihealth.com/procedures/gastric-perforation-repair-cost-in-india,NA,NA
+Restorative Proctocolectomy,https://www.credihealth.com/procedures/restorative-proctocolectomy-cost-in-india,NA,NA
+Mckeown Procedure,https://www.credihealth.com/procedures/mckeown-procedure-cost-in-india,NA,NA
+Radiochemotherapy,https://www.credihealth.com/procedures/radiochemotherapy-cost-in-india,NA,NA
+Meckel Diverticulectomy,https://www.credihealth.com/procedures/meckel-diverticulectomy-cost-in-india,NA,NA
+Freys Procedure,https://www.credihealth.com/procedures/freys-procedure-cost-in-india,NA,NA
+Rectal Polyp Excision,https://www.credihealth.com/procedures/rectal-polyp-excision-cost-in-india,NA,NA
+Enteral Stent,https://www.credihealth.com/procedures/enteral-stent-cost-in-india,NA,NA
+Ileostomy Closure,https://www.credihealth.com/procedures/ileostomy-closure-cost-in-india,NA,NA
+Spinal Cord Surgery,https://www.credihealth.com/procedures/spinal-cord-surgery-cost-in-india,NA,NA
+Cranioplasty,https://www.credihealth.com/procedures/cranioplasty-cost-in-india,NA,NA
+Polycystic Ovarian Syndrome,https://www.credihealth.com/procedures/polycystic-ovarian-syndrome-cost-in-india,NA,NA
+Cancer Reconstruction Surgery,https://www.credihealth.com/procedures/cancer-reconstruction-surgery-cost-in-india,NA,NA
+Head and Neck Cancer,https://www.credihealth.com/procedures/head-and-neck-cancer-cost-in-india,NA,NA
+Sex Reassignment surgery,https://www.credihealth.com/procedures/sex-reassignment-surgery-cost-in-india,NA,NA
+Stomach Cancer,https://www.credihealth.com/procedures/stomach-cancer-cost-in-india,NA,NA
+Matricectomy,https://www.credihealth.com/procedures/matricectomy-cost-in-india,NA,NA
+Breast Cancer Male,https://www.credihealth.com/procedures/breast-cancer-male-cost-in-india,NA,NA
+Lung Cancer,https://www.credihealth.com/procedures/lung-cancer-cost-in-india,NA,NA
+Stent Removal,https://www.credihealth.com/procedures/stent-removal-cost-in-india,NA,NA
+Anorectal Cancer Surgery,https://www.credihealth.com/procedures/anorectal-cancer-surgery-cost-in-india,NA,NA
+Dermabrasion,https://www.credihealth.com/procedures/dermabrasion-cost-in-india,NA,NA
+Ovarian Cyst Removal,https://www.credihealth.com/procedures/ovarian-cyst-removal-cost-in-india,NA,NA
+Capsule Endoscopy,https://www.credihealth.com/procedures/capsule-endoscopy-cost-in-india,NA,NA
+Parotidectomy,https://www.credihealth.com/procedures/parotidectomy-cost-in-india,NA,NA
+Bone Marrow Aspiration,https://www.credihealth.com/procedures/bone-marrow-aspiration-cost-in-india,NA,NA
+Immunotherapy,https://www.credihealth.com/procedures/immunotherapy-cost-in-india,NA,NA
+Cervical Cancer Surgery,https://www.credihealth.com/procedures/cervical-cancer-surgery-cost-in-india,NA,NA
+Spinal Fusion,https://www.credihealth.com/procedures/spinal-fusion-cost-in-india,NA,NA
+Cochlear Implant,https://www.credihealth.com/procedures/cochlear-implant-cost-in-india,NA,NA
+Throat Cancer Surgery,https://www.credihealth.com/procedures/throat-cancer-surgery-cost-in-india,NA,NA
+Tendon Repair of Arm,https://www.credihealth.com/procedures/tendon-repair-of-arm-cost-in-india,NA,NA
+Myxoma Surgery,https://www.credihealth.com/procedures/myxoma-surgery-cost-in-india,NA,NA
+Pediatric Spinal Deformity,https://www.credihealth.com/procedures/pediatric-spinal-deformity-cost-in-india,NA,NA
+Erectile Dysfunction,https://www.credihealth.com/procedures/erectile-dysfunction-cost-in-india,NA,NA
+Hormonal Therapy,https://www.credihealth.com/procedures/hormonal-therapy-cost-in-india,NA,NA
+Cyberknife,https://www.credihealth.com/procedures/cyberknife-cost-in-india,NA,NA
+Radical Cystectomy,https://www.credihealth.com/procedures/radical-cystectomy-cost-in-india,NA,NA
+Chemotherapy,https://www.credihealth.com/procedures/chemotherapy-cost-in-india,NA,NA
+Bone Scan,https://www.credihealth.com/procedures/bone-scan-cost-in-india,NA,NA
+Balloon-occluded Retrograde Transvenous Obliteration,https://www.credihealth.com/procedures/balloon-occluded-retrograde-transvenous-obliteration-cost-in-india,NA,NA
+Esophageal Banding,https://www.credihealth.com/procedures/esophageal-banding-cost-in-india,NA,NA
+Robotic Hysterectomy,https://www.credihealth.com/procedures/robotic-hysterectomy-cost-in-india,NA,NA
+Carpal Tunnel Release,https://www.credihealth.com/procedures/carpal-tunnel-release-cost-in-india,NA,NA
+Orchidectomy,https://www.credihealth.com/procedures/orchidectomy-cost-in-india,NA,NA
+Chemotherapy with Chemoport,https://www.credihealth.com/procedures/chemotherapy-with-chemoport-cost-in-india,NA,NA
+Breast Reduction Surgery,https://www.credihealth.com/procedures/breast-reduction-surgery-cost-in-india,NA,NA
+CT Scan,https://www.credihealth.com/procedures/ct-scan-cost-in-india,NA,NA
+Craniotomy,https://www.credihealth.com/procedures/craniotomy-cost-in-india,NA,NA
+Digital Subtraction Angiography,https://www.credihealth.com/procedures/digital-subtraction-angiography-cost-in-india,NA,NA
+Pacemaker Permanent,https://www.credihealth.com/procedures/pacemaker-permanent-cost-in-india,NA,NA
+Heart Valve Surgery,https://www.credihealth.com/procedures/heart-valve-surgery-cost-in-india,NA,NA
+Liver Transplant Donor,https://www.credihealth.com/procedures/liver-transplant-donor-cost-in-india,NA,NA
+Paediatric Cardiac Surgery,https://www.credihealth.com/procedures/paediatric-cardiac-surgery-cost-in-india,NA,NA
+Magnetic Resonance Cholangiopancreatography,https://www.credihealth.com/procedures/magnetic-resonance-cholangiopancreatography-cost-in-india,NA,NA
+Neurovascular Surgery,https://www.credihealth.com/procedures/neurovascular-surgery-cost-in-india,NA,NA
+Arteriovenous Fistula,https://www.credihealth.com/procedures/arteriovenous-fistula-cost-in-india,NA,NA
+Canalith Repositioning Procedure,https://www.credihealth.com/procedures/canalith-repositioning-procedure-cost-in-india,NA,NA
+Laparoscopy Nephro Ureterectomy,https://www.credihealth.com/procedures/laparoscopy-nephro-ureterectomy-cost-in-india,NA,NA
+Laser Prostatectomy,https://www.credihealth.com/procedures/laser-prostatectomy-cost-in-india,NA,NA
+Exploratory Laparotomy,https://www.credihealth.com/procedures/exploratory-laparotomy-cost-in-india,NA,NA
+Modified Radical Mastectomy,https://www.credihealth.com/procedures/modified-radical-mastectomy-cost-in-india,NA,NA
+Leg Tumor Surgery,https://www.credihealth.com/procedures/leg-tumor-surgery-cost-in-india,NA,NA
+Ureteral Obstruction Surgery,https://www.credihealth.com/procedures/ureteral-obstruction-surgery-cost-in-india,NA,NA
+Extraction of Wisdom Tooth,https://www.credihealth.com/procedures/extraction-of-wisdom-tooth-cost-in-india,NA,NA
+Egg Freezing,https://www.credihealth.com/procedures/egg-freezing-cost-in-india,NA,NA
+Kidney Transplant Donor,https://www.credihealth.com/procedures/kidney-transplant-donor-cost-in-india,NA,NA
+Kyphoplasty,https://www.credihealth.com/procedures/kyphoplasty-cost-in-india,NA,NA
+Amniocentesis,https://www.credihealth.com/procedures/amniocentesis-cost-in-india,NA,NA
+Cleft Palate Surgery,https://www.credihealth.com/procedures/cleft-palate-surgery-cost-in-india,NA,NA
+Cleft Lip Surgery,https://www.credihealth.com/procedures/cleft-lip-surgery-cost-in-india,NA,NA
+Bone Cancer Surgery,https://www.credihealth.com/procedures/bone-cancer-surgery-cost-in-india,NA,NA
+Liver Banding,https://www.credihealth.com/procedures/liver-banding-cost-in-india,NA,NA
+Blepharoplasty,https://www.credihealth.com/procedures/blepharoplasty-cost-in-india,NA,NA
+Abdominoplasty,https://www.credihealth.com/procedures/abdominoplasty-cost-in-india,NA,NA
+Fracture Fixation,https://www.credihealth.com/procedures/fracture-fixation-cost-in-india,NA,NA
+Flexible Sigmoidoscopy,https://www.credihealth.com/procedures/flexible-sigmoidoscopy-cost-in-india,NA,NA
+Holter Monitoring,https://www.credihealth.com/procedures/holter-monitoring-cost-in-india,NA,NA
+Chemical Peel,https://www.credihealth.com/procedures/chemical-peel-cost-in-india,NA,NA
+Congenital Heart Surgery,https://www.credihealth.com/procedures/congenital-heart-surgery-cost-in-india,NA,NA
+Dental Braces,https://www.credihealth.com/procedures/dental-braces-cost-in-india,NA,NA
+Pneumonectomy,https://www.credihealth.com/procedures/pneumonectomy-cost-in-india,NA,NA
+Partial Hip Replacement,https://www.credihealth.com/procedures/partial-hip-replacement-cost-in-india,NA,NA
+Rhytidectomy,https://www.credihealth.com/procedures/rhytidectomy-cost-in-india,NA,NA
+Root Canal Treatment,https://www.credihealth.com/procedures/root-canal-treatment-cost-in-india,NA,NA
+Shoulder Replacement,https://www.credihealth.com/procedures/shoulder-replacement-cost-in-india,NA,NA
+Oophorectomy,https://www.credihealth.com/procedures/oophorectomy-cost-in-india,NA,NA
+Brain Surgery,https://www.credihealth.com/procedures/brain-surgery-cost-in-india,NA,NA
+Ulcer Biopsy,https://www.credihealth.com/procedures/ulcer-biopsy-cost-in-india,NA,NA
+Umblical Hernia,https://www.credihealth.com/procedures/umblical-hernia-cost-in-india,NA,NA
+Ventricular Assist Device,https://www.credihealth.com/procedures/ventricular-assist-device-cost-in-india,NA,NA
+Vasectomy Reversal,https://www.credihealth.com/procedures/vasectomy-reversal-cost-in-india,NA,NA
+Ectopic Pregnancy,https://www.credihealth.com/procedures/ectopic-pregnancy-cost-in-india,NA,NA
+Neurotomy,https://www.credihealth.com/procedures/neurotomy-cost-in-india,NA,NA
+Medical Management,https://www.credihealth.com/procedures/medical-management-cost-in-india,NA,NA
+Oculoplastic Surgery,https://www.credihealth.com/procedures/oculoplastic-surgery-cost-in-india,NA,NA
+Buttock Lift,https://www.credihealth.com/procedures/buttock-lift-cost-in-india,INR 15000,INR 15000
+Cerebellopontine Angle Tumor Surgery,https://www.credihealth.com/procedures/cerebellopontine-angle-tumor-surgery-cost-in-india,NA,NA
+Nerve Grafting,https://www.credihealth.com/procedures/nerve-grafting-cost-in-india,NA,NA
+Electrophysiology Study,https://www.credihealth.com/procedures/electrophysiology-study-cost-in-india,NA,NA
+Shoulder Arthroscopy,https://www.credihealth.com/procedures/shoulder-arthroscopy-cost-in-india,NA,NA
+Reverse Colostomy,https://www.credihealth.com/procedures/reverse-colostomy-cost-in-india,NA,NA
+Myomectomy,https://www.credihealth.com/procedures/myomectomy-cost-in-india,NA,NA
+Cardioversion,https://www.credihealth.com/procedures/cardioversion-cost-in-india,NA,NA
+Fibroscarcoma Surgery,https://www.credihealth.com/procedures/fibroscarcoma-surgery-cost-in-india,NA,NA
+Fissurectomy,https://www.credihealth.com/procedures/fissurectomy-cost-in-india,NA,NA
+Aortic Aneurysm Repair,https://www.credihealth.com/procedures/aortic-aneurysm-repair-cost-in-india,NA,NA
+Brain Aneursym Surgery,https://www.credihealth.com/procedures/brain-aneursym-surgery-cost-in-india,NA,NA
+Bronchoscopy,https://www.credihealth.com/procedures/bronchoscopy-cost-in-india,NA,NA
+Gastrojejunostomy,https://www.credihealth.com/procedure/india/gastrojejunostomy-cost,NA,NA
+Elbow Arthroscopy,https://www.credihealth.com/procedures/elbow-arthroscopy-cost-in-india,NA,NA
+Decortication,https://www.credihealth.com/procedures/decortication-cost-in-india,NA,NA
+Colposcopy,https://www.credihealth.com/procedures/colposcopy-cost-in-india,NA,NA
+Endoscopic Mucosal Resection,https://www.credihealth.com/procedures/endoscopic-mucosal-resection-cost-in-india,INR 316000,INR 316000
+Hemangioma,https://www.credihealth.com/procedures/hemangioma-cost-in-india,NA,NA
+Proctocolectomy,https://www.credihealth.com/procedures/proctocolectomy-cost-in-india,NA,NA
+Skin Cancer Surgery,https://www.credihealth.com/procedures/skin-cancer-surgery-cost-in-india,NA,NA
+Sleep Study,https://www.credihealth.com/procedures/sleep-study-cost-in-india,INR 304000,INR 304000
+Transurethral Resection of Prostate,https://www.credihealth.com/procedures/transurethral-resection-of-prostate-cost-in-india,NA,NA
+Vaginal Birth After Cesarean,https://www.credihealth.com/procedures/vaginal-birth-after-cesarean-cost-in-india,NA,NA
+Laparoscopic Tubectomy,https://www.credihealth.com/procedures/laparoscopic-tubectomy-cost-in-india,NA,NA
+Endoscopic Disc Surgery,https://www.credihealth.com/procedures/endoscopic-disc-surgery-cost-in-india,NA,NA
+Thrombectomy,https://www.credihealth.com/procedure/india/thrombectomy-cost,NA,NA
+Lung Cancer Treatment,https://www.credihealth.com/procedures/lung-cancer-treatment-cost-in-india,NA,NA
+Radioactive Iodine Therapy,https://www.credihealth.com/procedures/radioactive-iodine-therapy-cost-in-india,NA,NA
+Neo Natal Jaundice,https://www.credihealth.com/procedures/neo-natal-jaundice-cost-in-india,NA,NA
+Interventional Radiology,https://www.credihealth.com/procedures/interventional-radiology-cost-in-india,NA,NA
+Pneumonia Management,https://www.credihealth.com/procedures/pneumonia-management-cost-in-india,NA,NA
+Cerebral angiography,https://www.credihealth.com/procedures/cerebral-angiography-cost-in-india,NA,NA
+Thyroid Cancer Surgery,https://www.credihealth.com/procedures/thyroid-cancer-surgery-cost-in-india,NA,NA
+Angiography with CABG,https://www.credihealth.com/procedures/angiography-with-cabg-cost-in-india,NA,NA
+Pilonidal Sinus Surgery,https://www.credihealth.com/procedures/pilonidal-sinus-surgery-cost-in-india,NA,NA
+Acne Scar Reduction Surgery,https://www.credihealth.com/procedures/acne-scar-reduction-surgery-cost-in-india,NA,NA
+Fontan Procedure,https://www.credihealth.com/procedures/fontan-procedure-cost-in-india,NA,NA
+Gastrectomy,https://www.credihealth.com/procedures/gastrectomy-cost-in-india,NA,NA
+Spinal Angiography,https://www.credihealth.com/procedures/spinal-angiography-cost-in-india,NA,NA
+Gall Bladder Stent Removal,https://www.credihealth.com/procedures/gall-bladder-stent-removal-cost-in-india,NA,NA
+Meniscectomy,https://www.credihealth.com/procedures/meniscectomy-cost-in-india,NA,NA
+Ureteroscopy,https://www.credihealth.com/procedures/ureteroscopy-cost-in-india,NA,NA
+Ileostomy,https://www.credihealth.com/procedures/ileostomy-cost-in-india,NA,NA
+Cryoplasty,https://www.credihealth.com/procedures/cryoplasty-cost-in-india,NA,NA
+Ureterolysis For Retro Peritoneal Fibrosis,https://www.credihealth.com/procedures/ureterolysis-for-retro-peritoneal-fibrosis-cost-in-india,NA,NA
+Neck Surgery,https://www.credihealth.com/procedures/neck-surgery-cost-in-india,NA,NA
+Intracytoplasmic Morphologically Selected Sperm Injection,https://www.credihealth.com/procedures/intracytoplasmic-morphologically-selected-sperm-injection-cost-in-india,NA,NA
+Pulmonary Thromboendarterectomy,https://www.credihealth.com/procedures/pulmonary-thromboendarterectomy-cost-in-india,NA,NA
+Pacemaker Generator Replacement,https://www.credihealth.com/procedures/pacemaker-generator-replacement-cost-in-india,NA,NA
+CRT-D,https://www.credihealth.com/procedures/crt-d-cost-in-india,NA,NA
+Renal Cancer Treatment,https://www.credihealth.com/procedures/renal-cancer-treatment-cost-in-india,NA,NA
+Testicular Sperm Aspiration,https://www.credihealth.com/procedures/testicular-sperm-aspiration-cost-in-india,NA,NA
+Vascular Surgery for Spine,https://www.credihealth.com/procedures/vascular-surgery-for-spine-cost-in-india,NA,NA
+Vulvectomy,https://www.credihealth.com/procedures/vulvectomy-cost-in-india,NA,NA
+Spinal Extramedullary Tumor Resection,https://www.credihealth.com/procedures/spinal-extramedullary-tumor-resection-cost-in-india,NA,NA
+CABG with VSD Closure,https://www.credihealth.com/procedures/cabg-with-vsd-closure-cost-in-india,NA,NA
+Angioplasty with Angiography,https://www.credihealth.com/procedures/angioplasty-with-angiography-cost-in-india,NA,NA
+CABG with LV Aneurysm Repair,https://www.credihealth.com/procedures/cabg-with-lv-aneurysm-repair-cost-in-india,NA,NA
+Aneurysmectomy,https://www.credihealth.com/procedures/aneurysmectomy-cost-in-india,NA,NA
+Anal Fistula,https://www.credihealth.com/procedures/anal-fistula-cost-in-india,NA,NA
+Pyelolithotomy,https://www.credihealth.com/procedures/pyelolithotomy-cost-in-india,NA,NA
+Scoliosis Correction,https://www.credihealth.com/procedures/scoliosis-correction-cost-in-india,NA,NA
+Cervical Cancer,https://www.credihealth.com/procedures/cervical-cancer-cost-in-india,NA,NA
+Ankle Replacement,https://www.credihealth.com/procedures/ankle-replacement-cost-in-india,NA,NA
+ASD Closure High Risk,https://www.credihealth.com/procedures/asd-closure-high-risk-cost-in-india,NA,NA
+CABG Ministernotomy,https://www.credihealth.com/procedures/cabg-ministernotomy-cost-in-india,NA,NA
+CABG Redo,https://www.credihealth.com/procedures/cabg-redo-cost-in-india,NA,NA
+Spinal Fusion for more than 2 levels,https://www.credihealth.com/procedures/spinal-fusion-for-more-than-2-levels-cost-in-india,NA,NA
+CRT-P,https://www.credihealth.com/procedures/crt-p-cost-in-india,NA,NA
+Cystoscopy Stent Removal,https://www.credihealth.com/procedures/cystoscopy-stent-removal-cost-in-india,NA,NA
+Laparoscopic Ovarian Cystectomy Unilateral,https://www.credihealth.com/procedures/laparoscopic-ovarian-cystectomy-unilateral-cost-in-india,NA,NA
+Trans Oral Decompression for Cranio Vertebral Junction Anomaly,https://www.credihealth.com/procedures/trans-oral-decompression-for-cranio-vertebral-junction-anomaly-cost-in-india,NA,NA
+Therapeutic Stereotactic Procedures,https://www.credihealth.com/procedures/therapeutic-stereotactic-procedures-cost-in-india,NA,NA
+Ureteroureterostomy,https://www.credihealth.com/procedures/ureteroureterostomy-cost-in-india,NA,NA
+Lumbar Disc Replacement,https://www.credihealth.com/procedure/india/lumbar-disc-replacement-cost,NA,NA
+Lung Cancer Surgery,https://www.credihealth.com/procedures/lung-cancer-surgery-cost-in-india,NA,NA
+Intra Cytoplasmic Sperm Injection,https://www.credihealth.com/procedures/intra-cytoplasmic-sperm-injection-cost-in-india,NA,NA
+Liver Abscess Drainage,https://www.credihealth.com/procedure/india/liver-abscess-drainage-cost,NA,NA
+Brain Tumor Resection,https://www.credihealth.com/procedures/brain-tumor-resection-cost-in-india,NA,NA
+Mini Craniotomy for Subdural Hematoma,https://www.credihealth.com/procedures/mini-craniotomy-for-subdural-hematoma-cost-in-india,NA,NA
+Laparoscopic Radical Nephrectomy,https://www.credihealth.com/procedures/laparoscopic-radical-nephrectomy-cost-in-india,NA,NA
+Clavicle Fracture,https://www.credihealth.com/procedures/clavicle-fracture-cost-in-india,NA,NA
+Intracranial Angioplasty for Vasospasm,https://www.credihealth.com/procedures/intracranial-angioplasty-for-vasospasm-cost-in-india,NA,NA
+Peripheral Artery Embolization,https://www.credihealth.com/procedures/peripheral-artery-embolization-cost-in-india,NA,NA
+Microdiscectomy at Cervical Level,https://www.credihealth.com/procedures/microdiscectomy-at-cervical-level-cost-in-india,NA,NA
+Microdiscectomy at Lumbar Level,https://www.credihealth.com/procedures/microdiscectomy-at-lumbar-level-cost-in-india,NA,NA
+Open Reduction Internal Fixation,https://www.credihealth.com/procedures/open-reduction-internal-fixation-cost-in-india,NA,NA
+Patellar Arthroscopy Ankle,https://www.credihealth.com/procedures/patellar-arthroscopy-ankle-cost-in-india,NA,NA
+Operative Arthrotomy Wrist,https://www.credihealth.com/procedures/operative-arthrotomy-wrist-cost-in-india,NA,NA
+Triple Pelvic Osteotomy,https://www.credihealth.com/procedures/triple-pelvic-osteotomy-cost-in-india,NA,NA
+Operative Arthotomy Elbow,https://www.credihealth.com/procedures/operative-arthotomy-elbow-cost-in-india,NA,NA
+Hemipelvectomy,https://www.credihealth.com/procedures/hemipelvectomy-cost-in-india,NA,NA
+Reimplantation of Ureter Unilateral,https://www.credihealth.com/procedures/reimplantation-of-ureter-unilateral-cost-in-india,NA,NA
+Endopyelotomy,https://www.credihealth.com/procedures/endopyelotomy-cost-in-india,NA,NA
+Iliac Lymph Node Dissection,https://www.credihealth.com/procedures/iliac-lymph-node-dissection-cost-in-india,NA,NA
+Laparoscopic Sacrocervicoplexy,https://www.credihealth.com/procedures/laparoscopic-sacrocervicoplexy-cost-in-india,NA,NA
+Ileal Replacement of Ureter,https://www.credihealth.com/procedures/ileal-replacement-of-ureter-cost-in-india,INR 70000,INR 70000
+Reimplantation of Ureter Bilateral,https://www.credihealth.com/procedures/reimplantation-of-ureter-bilateral-cost-in-india,NA,NA
+Microsurgical Varicocelectomy,https://www.credihealth.com/procedures/microsurgical-varicocelectomy-cost-in-india,NA,NA
+Percutaneous Nephrostomy,https://www.credihealth.com/procedures/percutaneous-nephrostomy-cost-in-india,NA,NA
+Tarsorrhaphy,https://www.credihealth.com/procedures/tarsorrhaphy-cost-in-india,NA,NA
+Fundus Photograhy,https://www.credihealth.com/procedures/fundus-photograhy-cost-in-india,NA,NA
+Pterygium Repair,https://www.credihealth.com/procedures/pterygium-repair-cost-in-india,NA,NA
+Lacrimal Abscess Drainage,https://www.credihealth.com/procedures/lacrimal-abscess-drainage-cost-in-india,NA,NA
+Laser Photocoagulation,https://www.credihealth.com/procedures/laser-photocoagulation-cost-in-india,NA,NA
+Drainage of Pelvic Abscess by Transrectal Approach,https://www.credihealth.com/procedures/drainage-of-pelvic-abscess-by-transrectal-approach-cost-in-india,NA,NA
+Plastic Repair of Introitus,https://www.credihealth.com/procedures/plastic-repair-of-introitus-cost-in-india,NA,NA
+Colpoperineorrhaphy,https://www.credihealth.com/procedures/colpoperineorrhaphy-cost-in-india,NA,NA
+Open Burch Colposuspension,https://www.credihealth.com/procedures/open-burch-colposuspension-cost-in-india,NA,NA
+Microdissection Testicular Sperm Extraction,https://www.credihealth.com/procedures/microdissection-testicular-sperm-extraction-cost-in-india,NA,NA
+Intestinal Fistula Repair,https://www.credihealth.com/procedure/india/intestinal-fistula-repair-cost,NA,NA
+Cautery of Cervix,https://www.credihealth.com/procedures/cautery-of-cervix-cost-in-india,NA,NA
+Laparoscopic Ovarian Cystectomy Bilateral,https://www.credihealth.com/procedures/laparoscopic-ovarian-cystectomy-bilateral-cost-in-india,NA,NA
+Triscupid Valve Repair,https://www.credihealth.com/procedures/triscupid-valve-repair-cost-in-india,NA,NA
+C Section Pre Term Delivery,https://www.credihealth.com/procedures/c-section-pre-term-delivery-cost-in-india,NA,NA
+Drainage of Pseudopancreatic Cyst,https://www.credihealth.com/procedures/drainage-of-pseudopancreatic-cyst-cost-in-india,NA,NA
+Esophageal Foreign Body Removal,https://www.credihealth.com/procedures/esophageal-foreign-body-removal-cost-in-india,NA,NA
+Bladder Neck Reconstruction,https://www.credihealth.com/procedures/bladder-neck-reconstruction-cost-in-india,NA,NA
+CABG with Carotid Endarterectomy,https://www.credihealth.com/procedures/cabg-with-carotid-endarterectomy-cost-in-india,NA,NA
+Retroperitoneal Tumor Excision,https://www.credihealth.com/procedures/retroperitoneal-tumor-excision-cost-in-india,NA,NA
+Laparoscopic Removal of Endometrioma,https://www.credihealth.com/procedures/laparoscopic-removal-of-endometrioma-cost-in-india,INR 586000,INR 586000
+Brain Abscess Drainage,https://www.credihealth.com/procedures/brain-abscess-drainage-cost-in-india,NA,NA
+CABG with Double Valve Repair,https://www.credihealth.com/procedures/cabg-with-double-valve-repair-cost-in-india,NA,NA
+Cholecystojejunostomy,https://www.credihealth.com/procedures/cholecystojejunostomy-cost-in-india,NA,NA
+Cryocautery of Cervix,https://www.credihealth.com/procedures/cryocautery-of-cervix-cost-in-india,NA,NA
+Anal Sphincter Repair,https://www.credihealth.com/procedures/anal-sphincter-repair-cost-in-india,NA,NA
+Bilateral Ureteroscopic Stone Removal,https://www.credihealth.com/procedures/bilateral-ureteroscopic-stone-removal-cost-in-india,NA,NA
+Decortication Empyema,https://www.credihealth.com/procedures/decortication-empyema-cost-in-india,NA,NA
+Phakic IOL Implantation,https://www.credihealth.com/procedures/phakic-iol-implantation-cost-in-india,NA,NA
+Pancreatic Abscess Drainage,https://www.credihealth.com/procedures/pancreatic-abscess-drainage-cost-in-india,NA,NA
+Perianal Abscess Drainage,https://www.credihealth.com/procedures/perianal-abscess-drainage-cost-in-india,NA,NA
+Pleurectomy or Decortication,https://www.credihealth.com/procedures/pleurectomy-or-decortication-cost-in-india,NA,NA
+Normal Delivery Twin Baby,https://www.credihealth.com/procedures/normal-delivery-twin-baby-cost-in-india,NA,NA
+Liver Cirrhosis Treatment,https://www.credihealth.com/procedures/liver-cirrhosis-cost-in-india,NA,NA
+ORIF for Pelvic and Acetabular Fracture,https://www.credihealth.com/procedures/orif-for-pelvic-and-acetabular-fracture-cost-in-india,NA,NA
+Microdiscectomy,https://www.credihealth.com/procedures/microdiscectomy-cost-in-india,NA,NA
+Open Partial Nephrectomy,https://www.credihealth.com/procedures/open-partial-nephrectomy-cost-in-india,NA,NA
+Vasectomy,https://www.credihealth.com/procedures/vasectomy-cost-in-india,NA,NA
+Ross Procedure,https://www.credihealth.com/procedures/ross-procedure-cost-in-india,NA,NA
+Circumcision,https://www.credihealth.com/procedures/circumcision-cost-in-india,NA,NA
+Laparoscopic Burch Colposuspension,https://www.credihealth.com/procedures/laparoscopic-burch-colposuspension-cost-in-india,NA,NA
+Laparoscopic Renal Cyst Deroofing,https://www.credihealth.com/procedures/laparoscopic-renal-cyst-deroofing-cost-in-india,NA,NA
+Tubotubal Anastomosis,https://www.credihealth.com/procedures/tubotubal-anastomosis-cost-in-india,NA,NA
+Tympanoplasty,https://www.credihealth.com/procedures/tympanoplasty-cost-in-india,NA,NA
+Mesenteric Cyst Excision,https://www.credihealth.com/procedure/india/mesenteric-cyst-excision-cost,NA,NA
+Common Bile Duct Exploration,https://www.credihealth.com/procedures/common-bile-duct-exploration-cost-in-india,NA,NA
+Esophagocoloplasty,https://www.credihealth.com/procedures/esophagocoloplasty-cost-in-india,NA,NA
+Open Duodenojejunostomy,https://www.credihealth.com/procedures/open-duodenojejunostomy-cost-in-india,NA,NA
+Cholangiojejunostomy,https://www.credihealth.com/procedures/cholangiojejunostomy-cost-in-india,NA,NA
+Nose Infection,https://www.credihealth.com/procedures/nose-infection-cost-in-india,NA,NA
+Varicocelectomy,https://www.credihealth.com/procedures/varicocelectomy-cost-in-india,NA,NA
+Botox,https://www.credihealth.com/procedures/botox-cost-in-india,NA,NA
+Surgical Sperm Retrieval,https://www.credihealth.com/procedures/surgical-sperm-retrieval-cost-in-india,NA,NA
+Reconstructive Surgery,https://www.credihealth.com/procedures/reconstructive-surgery-cost-in-india,NA,NA
+Urethrotomy,https://www.credihealth.com/procedures/urethrotomy-cost-in-india,NA,NA
+Laminectomy,https://www.credihealth.com/procedures/laminectomy-cost-in-india,NA,NA
+Mole Cyst Excision,https://www.credihealth.com/procedures/mole-cyst-excision-cost-in-india,NA,NA
+Brain Spectroscopy,https://www.credihealth.com/procedures/brain-spectroscopy-cost-in-india,NA,NA
+Abortion Surgery,https://www.credihealth.com/procedures/abortion-surgery-cost-in-india,NA,NA
+Gynecologic Cancer Screening,https://www.credihealth.com/procedures/gynecologic-cancer-screening-cost-in-india,NA,NA
+Fissure Treatment,https://www.credihealth.com/procedures/fissure-treatment-cost-in-india,NA,NA
+Prostate Biopsy,https://www.credihealth.com/procedures/prostate-biopsy-cost-in-india,NA,NA
+Tuberculosis,https://www.credihealth.com/procedures/tuberculosis-cost-in-india,NA,NA
+Biopsy,https://www.credihealth.com/procedures/biopsy-cost-in-india,NA,NA
+Colon Polypectomy,https://www.credihealth.com/procedures/colon-polypectomy-cost-in-india,NA,NA
+Hysteroscopic Polypectomy,https://www.credihealth.com/procedures/hysteroscopic-polypectomy-cost-in-india,NA,NA
+Uterine Cancer,https://www.credihealth.com/procedures/uterine-cancer-cost-in-india,NA,NA
+Frenotomy,https://www.credihealth.com/procedures/frenotomy-cost-in-india,NA,NA
+Liver Cancer,https://www.credihealth.com/procedures/liver-cancer-cost-in-india,NA,NA
+Bone Cancer,https://www.credihealth.com/procedures/bone-cancer-cost-in-india,NA,NA
+Gastrointestinal Cancer,https://www.credihealth.com/procedures/gastrointestinal-cancer-cost-in-india,NA,NA
+Gynecological Cancer,https://www.credihealth.com/procedures/gynecological-cancer-cost-in-india,NA,NA
+Embolization of Haemangiomas or AVMS,https://www.credihealth.com/procedures/embolization-of-haemangiomas-or-avms-cost-in-india,NA,NA
+Implant Removal Surgery,https://www.credihealth.com/procedures/implant-removal-surgery-cost-in-india,NA,NA
+Deep Brain Stimulation,https://www.credihealth.com/procedures/insertion-of-tissue-expander-into-nipple-cost-in-india,NA,NA
+Chest Wall Tumor Excision,https://www.credihealth.com/procedures/chest-wall-tumor-excision-cost-in-india,NA,NA
+Turbinoplasty,https://www.credihealth.com/procedures/turbinoplasty-cost-in-india,NA,NA
+Oral Biopsy,https://www.credihealth.com/procedures/oral-biopsy-cost-in-india,NA,NA
+C-Section,https://www.credihealth.com/procedures/c-section-cost-in-india,NA,NA
+Bullectomy,https://www.credihealth.com/procedures/bullectomy-cost-in-india,NA,NA
+Nasal Polypectomy,https://www.credihealth.com/procedures/nasal-polypectomy-cost-in-india,NA,NA
+Fetal Echocardiography,https://www.credihealth.com/procedures/fetal-echocardiography-cost-in-india,NA,NA
+Surgery for Cerbral Arteriovenous Malformation,https://www.credihealth.com/procedures/surgery-for-cerbral-arteriovenous-malformation-cost-in-india,NA,NA
+Glaucoma Valve Surgery,https://www.credihealth.com/procedures/glaucoma-valve-surgery-cost-in-india,NA,NA
+Hip Resurfacing,https://www.credihealth.com/procedures/hip-resurfacing-cost-in-india,NA,NA
+Bone Marrow Biopsy,https://www.credihealth.com/procedures/bone-marrow-biopsy-cost-in-india,NA,NA
