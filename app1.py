@@ -7,22 +7,110 @@ import geopandas as gpd
 import requests
 import re
 from bs4 import BeautifulSoup
+import json
+import xml.etree.ElementTree as ET
+import os
 
 
+# Function to flatten nested JSON data
+def flatten_json(y):
+    out = {}
+
+    def flatten(x, name=''):
+        if type(x) is dict:
+            for a in x:
+                flatten(x[a], name + a + '_')
+        elif type(x) is list:
+            i = 0
+            for a in x:
+                flatten(a, name + str(i) + '_')
+                i += 1
+        else:
+            out[name[:-1]] = x
+
+    flatten(y)
+    return out
 
 
-# Load the dataset
-data = pd.read_csv('procedure_prices.csv')
+# Function to convert XML to flattened JSON
+def xml_to_flattened_json(xml_string):
+    root = ET.fromstring(xml_string)
+    data = {}
 
-# Preprocess 'procedure_price' column
-data['procedure_price'] = data['procedure_price'].str.replace('INR', '').str.replace(',', '').astype(float)
-data['cred_procedure_price'] = data['cred_procedure_price'].str.replace('INR', '').str.replace(',', '').astype(float)
+    def parse_element(element, parent_key=''):
+        if len(element) > 0:
+            for child in element:
+                parse_element(child, parent_key + element.tag + '_')
+        else:
+            data[parent_key + element.tag] = element.text
 
-filtered_data = data.dropna(subset=['procedure_price', 'cred_procedure_price'])
+    parse_element(root)
+    return data
 
 
 # Set the page title
 st.markdown('<h1 style="text-align: center;">Medical Procedure Costs Visualization</h1>', unsafe_allow_html=True)
+
+# Load the dataset
+data = pd.read_csv('procedure_prices.csv')
+data1 = pd.read_csv('procedure_prices.csv')
+file_path = 'procedure_prices.csv'
+data_format = None
+
+#1. Pre-processing data by converting data of json or xml to csv for further visulization.
+
+# Check if the file format is JSON or XML
+with open(file_path, 'r') as f:
+    first_line = f.readline().strip()
+    if first_line.startswith('{'):
+        data_format = 'json'
+    elif first_line.startswith('<?xml'):
+        data_format = 'xml'
+
+# Process the data based on the format
+if data_format == 'json':
+    with open(file_path, 'r') as f:
+        json_data = json.load(f)
+    flattened_data = flatten_json(json_data)
+elif data_format == 'xml':
+    with open(file_path, 'r') as f:
+        xml_data = f.read()
+    flattened_data = xml_to_flattened_json(xml_data)
+else:
+    # If the format is not JSON or XML, assume it's already in CSV format
+    flattened_data = None
+
+# If flattened_data is not None, it contains the flattened data
+# You can then proceed with writing it to a CSV file
+if flattened_data:
+    csv_file_path = 'flattened_data.csv'
+    df = pd.DataFrame([flattened_data])
+    df.to_csv(csv_file_path, index=False)
+
+    st.write('Data received : Data has been flattened and saved to CSV:', csv_file_path)
+else:
+    st.write('Data received :Data is already in CSV format. Proceed with the next steps.')
+
+#2. Pre-processing : Extract only the relevant columns
+#Preprocess 'procedure_price' column
+data['procedure_price'] = data['procedure_price'].str.replace('INR', '').str.replace(',', '').astype(float)
+data['cred_procedure_price'] = data['cred_procedure_price'].str.replace('INR', '').str.replace(',', '').astype(float)
+filtered_data = data.dropna(subset=['procedure_price', 'cred_procedure_price'])
+
+# 3. Pre-processing : Deal with missing values
+# Check if available data is at least 80%
+available_data_percentage = data['procedure_price'].notnull().sum() / len(data)
+if available_data_percentage >= 0.8:
+    # Preprocess 'procedure_price' column
+    data['procedure_price'] = data['procedure_price'].str.replace('INR', '').str.replace(',', '').astype(float)
+    data['cred_procedure_price'] = data['cred_procedure_price'].str.replace('INR', '').str.replace(',', '').astype(float)
+    filtered_data = data.dropna(subset=['procedure_price', 'cred_procedure_price'])
+else:
+    # Fill NA values with 0
+    #data['procedure_price'].fillna(0, inplace=True)
+    #data['cred_procedure_price'].fillna(0, inplace=True)
+    filtered_data = data
+
 
 
 # Create columns for layout
@@ -60,55 +148,80 @@ data_with_serial_number.index += 1  # Start index from 1
 st.write(data_with_serial_number)
 st.markdown('</div>', unsafe_allow_html=True)
 
+#Histogram - Test
 
-# Histogram of procedure prices with tooltips using Altair
+# Histogram of selected column with tooltips using Altair
 st.markdown('<div class="white-box">', unsafe_allow_html=True)
-st.write('## Histogram: Procedure Price Distribution')
+st.write(f'## Histogram')
+# Get a list of available columns for radio buttons
+available_columns = data.columns
+
+# Create a radio button to select the column for X-axis
+selected_column = st.radio("Select X-axis Column:", available_columns)
+
 if not data.empty:
     hist = alt.Chart(data).mark_bar().encode(
-        x=alt.X('procedure_price:Q', bin=alt.Bin(maxbins=20), title='Procedure Price (INR)'),
+        x=alt.X(f'{selected_column}:Q', bin=alt.Bin(maxbins=20), title=f'{selected_column}'),
         y=alt.Y('count():Q', title='Frequency'),
-        tooltip=['procedure_price:Q', 'count():Q']
+        tooltip=[f'{selected_column}:Q', 'count():Q']
     ).properties(
         width=600,
         height=400,
-        title='Distribution of Procedure Prices'
+        title=f'Distribution of {selected_column}'
     )
     st.altair_chart(hist, use_container_width=True)
 else:
-    st.write('No valid data available for the histogram.')
+    st.write(f'No valid data available for the histogram of {selected_column}.')
 st.markdown('</div>', unsafe_allow_html=True)
+
+
 
 # Density plot of procedure prices using Altair
 st.markdown('<div class="white-box">', unsafe_allow_html=True)
-st.write('## Density Plot: Procedure Price Distribution')
+st.write('## Density Plot')
+
+# Get a list of available columns for X-axis selection
+available_columns1 = data.columns.tolist()
+
+# Provide a unique key for the radio button
+selected_column1 = st.radio("Select X-axis Column:", available_columns1, key='density_radio')
+
+# Create the density plot based on the selected column
 density_chart = alt.Chart(data).mark_area().encode(
-    alt.X('procedure_price:Q', title='Procedure Price (INR)'),
+    alt.X(f'{selected_column1}:Q', title=selected_column1),  # Use the selected column here
     alt.Y('density:Q', title='Density'),
-    alt.Tooltip(['procedure_price:Q', 'density:Q'])
+    alt.Tooltip([f'{selected_column1}:Q', 'density:Q'])
 ).transform_density(
-    'procedure_price',
-    as_=['procedure_price', 'density']
+    selected_column1,  # Use the selected column here
+    as_=[selected_column1, 'density']
 ).properties(
     width=600,
     height=400,
-    title='Density Plot of Procedure Prices'
+    title=f'Density Plot of {selected_column1}'
 )
 st.altair_chart(density_chart, use_container_width=True)
 st.markdown('</div>', unsafe_allow_html=True)
 
 
-
+#double bar chart test
 # Create a double bar chart comparing procedure_price and cred_procedure_price for available data
 st.write('## Double Bar Chart: Comparison of Procedure Prices')
+
+# Get a list of available columns for X and Y axis selection
+available_columns = data.columns.tolist()
+
+# Create dropdowns for selecting X and Y axes
+selected_x_column = st.selectbox("Select X-axis Column:", available_columns)
+selected_y_column = st.selectbox("Select Y-axis Column:", available_columns)
+
 if not filtered_data.empty:
     chart = alt.Chart(filtered_data).mark_bar().encode(
-        x=alt.X('Name_of_disease:N', title='Disease'),
-        y=alt.Y('price:Q', title='Price (INR)', scale=alt.Scale(domain=(0, 7000000))),
+        x=alt.X(f'{selected_x_column}:N', title='Disease'),
+        y=alt.Y(f'{selected_y_column}:Q', title='Price (INR)', scale=alt.Scale(domain=(0, 7000000))),
         color=alt.Color('type_of_procedure:N', title='Type of Procedure', scale=alt.Scale(range=['blue', 'orange'])),
-        tooltip=['Name_of_disease:N', 'price:Q', 'type_of_procedure:N']
+        tooltip=[f'{selected_x_column}:N', f'{selected_y_column}:Q', 'type_of_procedure:N']
     ).transform_fold(
-        ['procedure_price', 'cred_procedure_price'],
+        [selected_x_column, selected_y_column],
         as_=['type_of_procedure', 'price']
     ).properties(
         width=600,
@@ -120,6 +233,7 @@ if not filtered_data.empty:
     st.markdown('</div>', unsafe_allow_html=True)
 else:
     st.write('No valid data available for comparison.')
+
 
 # Create a pie chart with hovering feature
 fig = px.pie(data, values='procedure_price', names='Name_of_disease',
@@ -151,8 +265,8 @@ fig = px.pie(top_5_expensive, values='procedure_price', names='Name_of_disease',
 st.plotly_chart(fig)
 
 # Separate available and unavailable data
-available_data = data[data['procedure_price'].notnull()]
-unavailable_data = data[data['procedure_price'].isnull()]
+available_data = data1[data1['procedure_price'].notnull()]
+unavailable_data = data1[data1['procedure_price'].isnull()]
 
 # Calculate the count of available and unavailable data
 available_count = available_data.shape[0]
@@ -316,8 +430,8 @@ st.plotly_chart(fig, use_container_width=True)
 
 
 
-# Links to procedures
-data1 = pd.read_csv('procedure_prices.csv')
+
+
 
 # Links to procedures
 st.write('## Links to Procedures:')
